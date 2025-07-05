@@ -1,0 +1,12 @@
+[
+    {
+        "task": "cleaning of home",
+        "due": "2025 9 9 ",
+        "done": false
+    },
+    {
+        "task": "complete the python project ",
+        "due": "25/5",
+        "done": true
+    }
+]
